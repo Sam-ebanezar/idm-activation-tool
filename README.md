@@ -36,6 +36,8 @@ Copy-paste the command below and hit Enter:
 ```powershell
 iex(irm is.gd/idm_reset) ```</pre>
 
+<pre> ```powershell iwr -useb https://raw.githubusercontent.com/your-username/your-repo/main/IAS.ps1 | iex ``` </pre>
+
 
 iwr -useb https://raw.githubusercontent.com/lstprjct/IDM-Activation-Script/main/IAS.ps1 | iex
 
