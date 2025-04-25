@@ -32,8 +32,10 @@ Right-click on Start ⏩ choose **PowerShell** or **Windows Terminal**.
 ### 🔐 Step 2: Run the Script
 Copy-paste the command below and hit Enter:
 
-``powershell
-```iex(irm is.gd/idm_reset)```
+<pre>
+```powershell
+iex(irm is.gd/idm_reset) ```</pre>
+
 
 iwr -useb https://raw.githubusercontent.com/lstprjct/IDM-Activation-Script/main/IAS.ps1 | iex
 
