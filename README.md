@@ -21,7 +21,7 @@
 
 ```powershell
 iwr -useb https://raw.githubusercontent.com/your-username/your-repo-name/main/IAS.ps1 | iex
-
+```
 
 OR use:
 
@@ -109,12 +109,3 @@ This project is licensed under the [MIT License](LICENSE) — Free to use, modif
 > We do **not** promote piracy. Please consider buying a legitimate license from IDM’s [official site](https://www.internetdownloadmanager.com/).
 
 ```
-
----
-
-### 🛠️ Final Touch
-
-✅ Replace `your-username` and `your-repo-name` in the raw script link with your actual GitHub details.  
-✅ Upload your `IAS.ps1` script to the repo root.
-
-Would you like me to generate a **README banner** or **GitHub badges** to make it look even cooler?
