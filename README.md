@@ -1,10 +1,3 @@
-Absolutely! Here's a **modern, copyright-safe, emoji-enhanced, professional `README.md`** for your GitHub repo featuring the **IDM Activation Script**.
-
----
-
-### ✅ Copy the Entire Content Below Into Your `README.md`
-
-```markdown
 # ⚡ IDM Activation & Trial Reset Script [PowerShell]
 
 🧩 This PowerShell script activates **Internet Download Manager (IDM)** using the registry lock method — simple, safe, and effective! It also allows you to reset the 30-day trial period anytime. Perfect for tech-savvy users on Windows systems.
@@ -28,7 +21,7 @@ Absolutely! Here's a **modern, copyright-safe, emoji-enhanced, professional `REA
 
 ```powershell
 iwr -useb https://raw.githubusercontent.com/your-username/your-repo-name/main/IAS.ps1 | iex
-```
+
 
 OR use:
 
